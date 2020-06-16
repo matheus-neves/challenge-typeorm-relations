@@ -90,4 +90,7 @@ Application that allows the creation of customers, products and orders, where th
 This challenge is under license from MIT. See the archive [LICENSE](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/LICENSE) for more details.
 
 ---
-Challenge completed ✔&nbsp;by Matheus Neves and created with 💜&nbsp;by Rocketseat 👋 [Join the community!](https://discordapp.com/invite/gCRAFhc)
+
+<p>Challenge completed :heavy_check_mark:</p>
+<p>Made with :purple_heart: by Matheus Neves :wave: [See my linkedin!](https://www.linkedin.com/in/matheus-neves-front-end/)</p>
+
