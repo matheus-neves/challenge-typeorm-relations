@@ -47,9 +47,9 @@ class CreateOrderService {
       }
     });
 
-    const formattedProducts = verifyProducts.map(({ id, quantity, price }) => ({
+    const formattedProducts = verifyProducts.map(({ id, price }, index) => ({
       product_id: id,
-      quantity,
+      quantity: products[index].quantity,
       price,
     }));
 
