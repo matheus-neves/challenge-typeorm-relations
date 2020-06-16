@@ -91,6 +91,15 @@ This challenge is under license from MIT. See the archive [LICENSE](https://gith
 
 ---
 
+
+### :memo: License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
+
+---
+
+
 <p>Challenge completed :heavy_check_mark:</p>
-<p>Made with :purple_heart: by Matheus Neves :wave: [See my linkedin!](https://www.linkedin.com/in/matheus-neves-front-end/)</p>
+
+Made with 💜 &nbsp; by Matheus Neves [See my linkedin!](https://www.linkedin.com/in/matheus-neves-front-end/) :wave:
 
